@@ -1,0 +1,54 @@
+header { 
+  font-family: Futura, Helvetica, sans-serif;
+  color: black;
+  background-color: gray;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+  margin: 2em, 2em, 2em, 2em;
+  }
+
+nav {
+  background-color: gray;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 2em 0 2em 0;
+}
+/*
+div {
+  font-family: Georgia, sans-serif;
+  color: gray;
+  text-align: center;
+  border: 3px solid gray;
+  padding: 1em;
+  }
+  */
+
+  
+  form {
+    width: 90%;
+    margin: 0 auto 0 auto;
+    font-family: Futura, sans-serif;
+    font-size: 1 em;
+    background-color: dark gray;
+    padding: .5em;
+  }
+    input[type="text"] {
+     
+      font-size:30px;
+    }
+ 
+ div {
+   margin: 2em 0 2em 0;
+  /* padding: .5em;*/
+   
+ }
+ div.submitButton {
+   text-align: center;
+ }
+
+   footer {
+    text-align: center;
+  }
+  
+ 
